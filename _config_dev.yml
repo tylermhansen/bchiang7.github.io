@@ -1,26 +1,24 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Tyler Hansen
+title: Tyler Hansen | Game Developer
+description: Game developer, digital therapeautics enthusiast, and budding entrepeneur.
+url: https://tylerhansen.dev/
 baseurl: ''
-email: brittany.chiang@gmail.com
+email: tyler.hansen@colby.edu
 cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
+logo: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png
 resume: https://bchiang7.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:tyler.hansen@colby.edu
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/tylermhansen
   - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://instagram.com/tyler.hansen
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/tylermhansen
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/tylerhansencode
 
 # Build settings
 markdown: kramdown
