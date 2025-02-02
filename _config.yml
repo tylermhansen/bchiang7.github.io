@@ -4,15 +4,15 @@ title: Tyler Hansen | Game Developer
 description: Game developer, digital therapeautics enthusiast, and budding entrepeneur.
 url: https://tylerhansen.dev/
 baseurl: ''
-email: tyler.hansen@colby.edu
+email: tyler@tylerhansen.dev
 cover: https://tylerhansen.dev/img/og.png
 logo: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png
 resume: https://tylerhansen.dev/resume.pdf
 social:
   - title: email
-    url: mailto:tyler.hansen@colby.edu
-  - title: twitter
-    url: https://twitter.com/tylermhansen
+    url: mailto:tyler@tylerhansen.dev
+  - title: bluesky
+    url: https://bsky.app/profile/tylerhansen.dev
   - title: instagram
     url: https://instagram.com/tyler.hansen
   - title: github
